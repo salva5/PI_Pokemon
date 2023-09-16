@@ -1,0 +1,36 @@
+.divCards {
+   margin-bottom: 40px;
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    
+}
+
+.divImage img{
+    height: 140px;
+    
+}
+.divTypes {
+  display:flex
+}
+.divCards button {
+    border-radius: 10px;
+    width: 100px;
+    font-family: 'Anton', sans-serif;
+    color: #ffec48;
+    background-color: #181934;
+}
+.divCards button:hover{
+    background-color: #8C8C8C;
+}
+.error {
+    position: relative;
+    left: 338px;
+    top: 50px;
+    text-align: center;
+    font-size: larger;
+}
+.error h3 {
+  color:red
+}

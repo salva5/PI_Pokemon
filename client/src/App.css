@@ -1,0 +1,24 @@
+.App {
+  background-image: url(https://assets.pokemon.com//assets/cms2-es-es/img/misc/virtual-backgrounds/sword-shield/pokemon-in-the-wild.png);
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  max-height: 1410px;
+  min-height: 680px;
+}
+.Pages {
+  display: flex;
+  flex-direction: column;
+
+
+}
+
+
+
+
+
+
+
+
+

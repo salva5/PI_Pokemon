@@ -1,0 +1,14 @@
+.divPaginated {
+    display: flex;
+    justify-content: space-around;
+    width: 1080px;
+    align-items: center;
+    margin: 20px;
+}
+.divPaginated button{
+    font-family: 'Anton', sans-serif;
+    color: #ffec48;
+    background-color: #181934;
+    border-radius: 10px;
+    width: 60px;
+}

@@ -1,0 +1,35 @@
+.divLanding {
+   /*  background-image: url(https://fondosmil.com/fondo/14707.png);
+    background-size: cover; */
+    height: 100vh;
+    background-position: center;
+    background-attachment: fixed;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+.divLanding img {
+    
+    height: 120px;
+    width: 320px;
+    position: relative;
+    bottom: 60px;
+}
+.divLanding button{
+    background-color: rgba(69, 71, 73, 0.216);
+    font-family: 'Anton', sans-serif;
+    color: white;
+    border: solid rgb(23, 83, 194);
+    border-radius: 15px;
+    position: relative;
+    bottom: 20px;
+    height: 50px;
+    width: 120px;
+    
+}
+.divLanding button:hover {
+    background-color: rgb(33, 88, 206);
+
+}

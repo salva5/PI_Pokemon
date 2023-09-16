@@ -1,0 +1,26 @@
+.divNav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.img {
+    height: 50px;
+    position: relative;
+    right: 80px;
+   
+}
+.create {
+  
+  
+}
+.home {
+}
+.divNav h3{
+    position: relative;
+    text-decoration: none;
+    right: 100px;
+    color: white;
+    font-size: x-large;
+}
+

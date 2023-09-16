@@ -1,0 +1,58 @@
+.divForm {
+    
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+.form {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   padding: 20px;
+   border-radius: 20px;
+   background-color: #00000078;
+   width: 270px;
+}
+.form h3 {
+    color: red;
+    font-size: small;
+    margin: 5px;
+}
+.form input{
+    width: 200px;
+    height: 13px;
+    padding: 5px;
+    border: none;
+    border-radius: 20px;
+}
+.form button {
+    padding: 5px;
+    
+    width: 80px;
+    border-radius: 20px;
+    color: #ffec48;
+    background-color: #181934;
+}
+.form button:hover {
+    background-color: #8C8C8C;
+}
+.containerSelect {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.divSelect select {
+    border: none;
+    border-radius: 2px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 5px;
+    width: 70px;
+    color: #ffffff;
+    background-color: #00000082;
+}

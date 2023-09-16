@@ -1,0 +1,30 @@
+.divHome {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+.divSelect {
+    display: flex;
+    justify-content: space-around;
+    width: 530px;
+}
+.divSelect select {
+    font-family: 'Anton', sans-serif;
+    border: none;
+    border-radius: 2px;
+    width: 70px;
+    color: #ffffff;
+    background-color: #00000082;
+   
+    
+}
+.divSelect option {
+   
+}
+.divFilters {
+  display: contents;
+}
+.divOrder {
+  display: contents;
+}
